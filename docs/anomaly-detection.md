@@ -16,7 +16,7 @@ Install `requirements.txt`, place `creditcard.csv` at the repository root follow
 
 The original saved test output reports precision **0.366**, recall **0.378**, and F1 **0.372**, with 93 true positives and 161 false positives among 254 flagged transactions. These are results from the supplied notebook, not a new run.
 
-![Saved precision-recall tradeoff](images/anomaly-detection.png)
+![Saved precision-recall tradeoff](anomaly-detection.png)
 
 ## Limitations and next steps
 
