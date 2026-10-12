@@ -1,0 +1,22 @@
+# Local datasets and duplicate archives
+creditcard.csv
+Online Retail.xlsx
+ml-latest-small/
+online+retail/
+archive/
+*.zip
+
+# Notebook, Python, and editor artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+desktop.ini
+*.pt
+*.pth
